@@ -2,6 +2,8 @@
 
 Preview builds of the Safer Streets app for Rotaract District 3011. This repository holds only the signed Android installers; the source code is private.
 
+Safer Streets is built by [Round Robin Solutions](https://roundrobin.in). Website: [saferstreets.in](https://saferstreets.in).
+
 **[Download the latest APK](https://github.com/round-robin-solutions/safer-streets-releases/releases/latest/download/safer-streets.apk)**
 
 ## Installing
